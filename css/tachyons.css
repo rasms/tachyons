@@ -817,11 +817,18 @@ code, .code { font-family: Consolas, monaco, monospace; }
 
 */
 /* Height Scale */
-.h1 { height: 1rem; }
-.h2 { height: 2rem; }
-.h3 { height: 4rem; }
-.h4 { height: 8rem; }
-.h5 { height: 16rem; }
+.h1 { height: .125rem; }
+.h2 { height: .25rem; }
+.h3 { height: .5rem; }
+.h4 { height: .75rem; }
+.h5 { height: 1rem; }
+.h6 { height: 1.25rem; }
+.h7 { height: 1.5rem; }
+.h8 { height: 1.75rem; }
+.h9 { height: 2rem; }
+.h10 { height: 4rem; }
+.h11 { height: 8rem; }
+.h12 { height: 16rem; }
 /* Height Percentages - Based off of height of parent */
 .h-25 { height: 25%; }
 .h-50 { height: 50%; }
@@ -969,11 +976,18 @@ code, .code { font-family: Consolas, monaco, monospace; }
 
 */
 /* Width Scale */
-.w1 { width: 1rem; }
-.w2 { width: 2rem; }
-.w3 { width: 4rem; }
-.w4 { width: 8rem; }
-.w5 { width: 16rem; }
+.w1 { width: .125rem; }
+.w2 { width: .25rem; }
+.w3 { width: .5rem; }
+.w4 { width: .75rem; }
+.w5 { width: 1rem; }
+.w6 { width: 1.25rem; }
+.w7 { width: 1.5rem; }
+.w8 { width: 1.75rem; }
+.w9 { width: 2rem; }
+.w10 { width: 4rem; }
+.w11 { width: 8rem; }
+.w12 { width: 16rem; }
 .w-10 { width: 10%; }
 .w-20 { width: 20%; }
 .w-25 { width: 25%; }
@@ -2226,11 +2240,18 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .fw7-ns { font-weight: 700; }
  .fw8-ns { font-weight: 800; }
  .fw9-ns { font-weight: 900; }
- .h1-ns { height: 1rem; }
- .h2-ns { height: 2rem; }
- .h3-ns { height: 4rem; }
- .h4-ns { height: 8rem; }
- .h5-ns { height: 16rem; }
+ .h1-ns { height: .125rem; }
+ .h2-ns { height: .25rem; }
+ .h3-ns { height: .5rem; }
+ .h4-ns { height: .75rem; }
+ .h5-ns { height: 1rem; }
+ .h6-ns { height: 1.25rem; }
+ .h7-ns { height: 1.5rem; }
+ .h8-ns { height: 1.75rem; }
+ .h9-ns { height: 2rem; }
+ .h10-ns { height: 4rem; }
+ .h11-ns { height: 8rem; }
+ .h12-ns { height: 16rem; }
  .h-25-ns { height: 25%; }
  .h-50-ns { height: 50%; }
  .h-75-ns { height: 75%; }
@@ -2260,11 +2281,18 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .mw8-ns { max-width: 64rem; }
  .mw9-ns { max-width: 96rem; }
  .mw-none-ns { max-width: none; }
- .w1-ns { width: 1rem; }
- .w2-ns { width: 2rem; }
- .w3-ns { width: 4rem; }
- .w4-ns { width: 8rem; }
- .w5-ns { width: 16rem; }
+ .w1-ns { width: .125rem; }
+ .w2-ns { width: .25rem; }
+ .w3-ns { width: .5rem; }
+ .w4-ns { width: .75rem; }
+ .w5-ns { width: 1rem; }
+ .w6-ns { width: 1.25rem; }
+ .w7-ns { width: 1.5rem; }
+ .w8-ns { width: 1.75rem; }
+ .w9-ns { width: 2rem; }
+ .w10-ns { width: 4rem; }
+ .w11-ns { width: 8rem; }
+ .w12-ns { width: 16rem; }
  .w-10-ns { width: 10%; }
  .w-20-ns { width: 20%; }
  .w-25-ns { width: 25%; }
@@ -2684,11 +2712,18 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .fw7-m { font-weight: 700; }
  .fw8-m { font-weight: 800; }
  .fw9-m { font-weight: 900; }
- .h1-m { height: 1rem; }
- .h2-m { height: 2rem; }
- .h3-m { height: 4rem; }
- .h4-m { height: 8rem; }
- .h5-m { height: 16rem; }
+ .h1-m { height: .125rem; }
+ .h2-m { height: .25rem; }
+ .h3-m { height: .5rem; }
+ .h4-m { height: .75rem; }
+ .h5-m { height: 1rem; }
+ .h6-m { height: 1.25rem; }
+ .h7-m { height: 1.5rem; }
+ .h8-m { height: 1.75rem; }
+ .h9-m { height: 2rem; }
+ .h10-m { height: 4rem; }
+ .h11-m { height: 8rem; }
+ .h12-m { height: 16rem; }
  .h-25-m { height: 25%; }
  .h-50-m { height: 50%; }
  .h-75-m { height: 75%; }
@@ -2718,11 +2753,18 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .mw8-m { max-width: 64rem; }
  .mw9-m { max-width: 96rem; }
  .mw-none-m { max-width: none; }
- .w1-m { width: 1rem; }
- .w2-m { width: 2rem; }
- .w3-m { width: 4rem; }
- .w4-m { width: 8rem; }
- .w5-m { width: 16rem; }
+ .w1-m { width: .125rem; }
+ .w2-m { width: .25rem; }
+ .w3-m { width: .5rem; }
+ .w4-m { width: .75rem; }
+ .w5-m { width: 1rem; }
+ .w6-m { width: 1.25rem; }
+ .w7-m { width: 1.5rem; }
+ .w8-m { width: 1.75rem; }
+ .w9-m { width: 2rem; }
+ .w10-m { width: 4rem; }
+ .w11-m { width: 8rem; }
+ .w12-m { width: 16rem; }
  .w-10-m { width: 10%; }
  .w-20-m { width: 20%; }
  .w-25-m { width: 25%; }
@@ -3142,11 +3184,18 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .fw7-l { font-weight: 700; }
  .fw8-l { font-weight: 800; }
  .fw9-l { font-weight: 900; }
- .h1-l { height: 1rem; }
- .h2-l { height: 2rem; }
- .h3-l { height: 4rem; }
- .h4-l { height: 8rem; }
- .h5-l { height: 16rem; }
+ .h1-l { height: .125rem; }
+ .h2-l { height: .25rem; }
+ .h3-l { height: .5rem; }
+ .h4-l { height: .75rem; }
+ .h5-l { height: 1rem; }
+ .h6-l { height: 1.25rem; }
+ .h7-l { height: 1.5rem; }
+ .h8-l { height: 1.75rem; }
+ .h9-l { height: 2rem; }
+ .h10-l { height: 4rem; }
+ .h11-l { height: 8rem; }
+ .h12-l { height: 16rem; }
  .h-25-l { height: 25%; }
  .h-50-l { height: 50%; }
  .h-75-l { height: 75%; }
@@ -3176,11 +3225,18 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .mw8-l { max-width: 64rem; }
  .mw9-l { max-width: 96rem; }
  .mw-none-l { max-width: none; }
- .w1-l { width: 1rem; }
- .w2-l { width: 2rem; }
- .w3-l { width: 4rem; }
- .w4-l { width: 8rem; }
- .w5-l { width: 16rem; }
+ .w1-l { width: .125rem; }
+ .w2-l { width: .25rem; }
+ .w3-l { width: .5rem; }
+ .w4-l { width: .75rem; }
+ .w5-l { width: 1rem; }
+ .w6-l { width: 1.25rem; }
+ .w7-l { width: 1.5rem; }
+ .w8-l { width: 1.75rem; }
+ .w9-l { width: 2rem; }
+ .w10-l { width: 4rem; }
+ .w11-l { width: 8rem; }
+ .w12-l { width: 16rem; }
  .w-10-l { width: 10%; }
  .w-20-l { width: 20%; }
  .w-25-l { width: 25%; }

@@ -33,11 +33,18 @@
 
 /* Height Scale */
 
-.h1 { height: 1rem; }
-.h2 { height: 2rem; }
-.h3 { height: 4rem; }
-.h4 { height: 8rem; }
-.h5 { height: 16rem; }
+.h1 { height: .125rem; }
+.h2 { height: .25rem; }
+.h3 { height: .5rem; }
+.h4 { height: .75rem; }
+.h5 { height: 1rem; }
+.h6 { height: 1.25rem; }
+.h7 { height: 1.5rem; }
+.h8 { height: 1.75rem; }
+.h9 { height: 2rem; }
+.h10 { height: 4rem; }
+.h11 { height: 8rem; }
+.h12 { height: 16rem; }
 
 /* Height Percentages - Based off of height of parent */
 
@@ -64,11 +71,18 @@
 .h-inherit {  height: inherit; }
 
 @media (--breakpoint-not-small) {
-  .h1-ns {  height: 1rem; }
-  .h2-ns {  height: 2rem; }
-  .h3-ns {  height: 4rem; }
-  .h4-ns {  height: 8rem; }
-  .h5-ns {  height: 16rem; }
+  .h1-ns { height: .125rem; }
+  .h2-ns { height: .25rem; }
+  .h3-ns { height: .5rem; }
+  .h4-ns { height: .75rem; }
+  .h5-ns { height: 1rem; }
+  .h6-ns { height: 1.25rem; }
+  .h7-ns { height: 1.5rem; }
+  .h8-ns { height: 1.75rem; }
+  .h9-ns { height: 2rem; }
+  .h10-ns { height: 4rem; }
+  .h11-ns { height: 8rem; }
+  .h12-ns { height: 16rem; }
   .h-25-ns { height: 25%; }
   .h-50-ns { height: 50%; }
   .h-75-ns { height: 75%; }
@@ -84,11 +98,18 @@
 }
 
 @media (--breakpoint-medium) {
-  .h1-m { height: 1rem; }
-  .h2-m { height: 2rem; }
-  .h3-m { height: 4rem; }
-  .h4-m { height: 8rem; }
-  .h5-m { height: 16rem; }
+  .h1-m { height: .125rem; }
+  .h2-m { height: .25rem; }
+  .h3-m { height: .5rem; }
+  .h4-m { height: .75rem; }
+  .h5-m { height: 1rem; }
+  .h6-m { height: 1.25rem; }
+  .h7-m { height: 1.5rem; }
+  .h8-m { height: 1.75rem; }
+  .h9-m { height: 2rem; }
+  .h10-m { height: 4rem; }
+  .h11-m { height: 8rem; }
+  .h12-m { height: 16rem; }
   .h-25-m { height: 25%; }
   .h-50-m { height: 50%; }
   .h-75-m { height: 75%; }
@@ -104,11 +125,18 @@
 }
 
 @media (--breakpoint-large) {
-  .h1-l { height: 1rem; }
-  .h2-l { height: 2rem; }
-  .h3-l { height: 4rem; }
-  .h4-l { height: 8rem; }
-  .h5-l { height: 16rem; }
+  .h1-l { height: .125rem; }
+  .h2-l { height: .25rem; }
+  .h3-l { height: .5rem; }
+  .h4-l { height: .75rem; }
+  .h5-l { height: 1rem; }
+  .h6-l { height: 1.25rem; }
+  .h7-l { height: 1.5rem; }
+  .h8-l { height: 1.75rem; }
+  .h9-l { height: 2rem; }
+  .h10-l { height: 4rem; }
+  .h11-l { height: 8rem; }
+  .h12-l { height: 16rem; }
   .h-25-l { height: 25%; }
   .h-50-l { height: 50%; }
   .h-75-l { height: 75%; }
